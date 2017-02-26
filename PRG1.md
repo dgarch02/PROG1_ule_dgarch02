@@ -1,0 +1,21 @@
+1.Ordenador - http://dle.rae.es/?id=R9dHZWB
+2.Teclado - http://dle.rae.es/?id=ZIOsimV
+3.Altavoz - http://dle.rae.es/?id=26IgSuL
+4.Cristal - http://dle.rae.es/?id=BImqXy7
+5.Lente - http://dle.rae.es/?id=N7o6jFG
+6.Mecánico - http://dle.rae.es/?id=OiC9vhp
+7.Carpeta - http://dle.rae.es/?id=7ePLqTR
+8.Ratón - http://dle.rae.es/?id=VEOs7fW
+9.Playa - http://dle.rae.es/?id=TNj4Tug
+10.Furgoneta - http://dle.rae.es/?id=IcztAT3
+
+1.-libro = http://dle.rae.es/?id=NG3ktc6
+2.-gotico = http://dle.rae.es/?id=JNMHOU3
+3.-faraon = http://dle.rae.es/?id=HcLxiKz
+4.-perro = http://dle.rae.es/?id=SihVF3L
+5.-movil = http://dle.rae.es/?id=PxcFux4
+6.-ordenador = http://dle.rae.es/?id=R9dHZWB
+7.-campo = http://dle.rae.es/?id=711mEYU
+8.-remo = http://dle.rae.es/?id=Vu8FFiS
+9.-fallo = http://dle.rae.es/?id=HY5SxyL|HYD6RGN
+10.-pausa = http://dle.rae.es/?id=SCi2N5K
